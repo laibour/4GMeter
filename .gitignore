@@ -1,5 +1,8 @@
 # ignore files
-/
+/Debug
+/Doc
+/settings
+/STM8L15x_StdPeriph_Driver
 
 # not ignore
 !.gitignore
