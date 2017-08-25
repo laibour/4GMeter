@@ -1,0 +1,7 @@
+# ignore files
+*
+
+# not ignore
+!.gitignore
+!/Drivers
+!/User
