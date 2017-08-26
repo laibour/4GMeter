@@ -14,6 +14,7 @@
       <file>$PROJ_DIR$\Drivers\eeprom.c</file>
       <file>$PROJ_DIR$\Drivers\key.c</file>
       <file>$PROJ_DIR$\Drivers\lcd.c</file>
+<<<<<<< HEAD
       <file>$PROJ_DIR$\Debug\Obj\stm8l15x_gpio.pbi</file>
       <file>$PROJ_DIR$\Debug\Obj\timer.o</file>
       <file>$PROJ_DIR$\Debug\Obj\gprs.o</file>
@@ -141,6 +142,8 @@
       <file>$PROJ_DIR$\Debug\Obj\stm8l15x_tim4.o</file>
       <file>$PROJ_DIR$\Debug\Obj\spi_flash.pbi</file>
       <file>$PROJ_DIR$\Debug\Obj\stm8l15x_tim3.o</file>
+=======
+>>>>>>> add STM8L15x_StdPeriph_Driver
       <file>$PROJ_DIR$\Drivers\low_power.c</file>
       <file>$PROJ_DIR$\Drivers\motor.c</file>
       <file>$PROJ_DIR$\Drivers\rtc.c</file>
@@ -150,6 +153,7 @@
       <file>$PROJ_DIR$\Drivers\net\gprs-Misc.c</file>
       <file>$PROJ_DIR$\Drivers\net\gprs.c</file>
       <file>$PROJ_DIR$\Drivers\net\net.c</file>
+<<<<<<< HEAD
       <file>$PROJ_DIR$\STM8L15x_StdPeriph_Driver\src\stm8l15x_adc.c</file>
       <file>$PROJ_DIR$\STM8L15x_StdPeriph_Driver\src\stm8l15x_aes.c</file>
       <file>$PROJ_DIR$\STM8L15x_StdPeriph_Driver\src\stm8l15x_beep.c</file>
@@ -181,11 +185,16 @@
       <file>$PROJ_DIR$\STM8L15x_StdPeriph_Driver\src\stm8l15x_wwdg.c</file>
       <file>$PROJ_DIR$\User\main.c</file>
       <file>$PROJ_DIR$\User\common.c</file>
+=======
+      <file>$PROJ_DIR$\User\common.c</file>
+      <file>$PROJ_DIR$\User\main.c</file>
+>>>>>>> add STM8L15x_StdPeriph_Driver
       <file>$PROJ_DIR$\User\stm8l15x_conf.c</file>
       <file>$PROJ_DIR$\User\stm8l15x_conf.h</file>
       <file>$PROJ_DIR$\User\stm8l15x_it.c</file>
       <file>$PROJ_DIR$\User\stm8l15x_it.h</file>
       <file>$PROJ_DIR$\User\task.c</file>
+<<<<<<< HEAD
       <file>$PROJ_DIR$\Debug\Obj\task.pbi</file>
       <file>$PROJ_DIR$\Debug\Obj\key.o</file>
       <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
@@ -1345,6 +1354,9 @@
         </tool>
       </inputs>
     </file>
+=======
+    </outputs>
+>>>>>>> add STM8L15x_StdPeriph_Driver
   </configuration>
   <configuration>
     <name>Release</name>

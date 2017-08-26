@@ -2,9 +2,10 @@
 /Debug
 /Doc
 /settings
-/STM8L15x_StdPeriph_Driver
+*.dep
 
 # not ignore
 !.gitignore
 !/Drivers
 !/User
+!/STM8L15x_StdPeriph_Driver
