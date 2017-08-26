@@ -3,6 +3,8 @@
 /Doc
 /settings
 *.dep
+*.html
+*.chm
 
 # not ignore
 !.gitignore
